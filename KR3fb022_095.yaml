@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/95
+seq: 95
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:8e7059d11f6ebff7271e2aaec6e87bb3023f1e878759ac2e48ba17ab0d5e9f3f

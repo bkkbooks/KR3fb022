@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 憲厯頒矣而何有扵笺釋箋釋出矣而何有扵通書是憲厯體也通書用也箋釋則兼體用而一以皇憲為宗者也凢人生天地茂育四時莫不有當然之行當然之止甚
+  hash: sha256:43a107f985e9ea5f0df260ee59f8fb7b605e93e77216fd1406af3a1351acbc75
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:4d2d739974664871fc96a2368dcce3a4b9a4d334ec0e75fda658bcb5b0298618

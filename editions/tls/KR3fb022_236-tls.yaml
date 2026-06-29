@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/236
+seq: 236
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 癸時子正三刻至丑初二刻乙時卯正三刻至辰初二刻丁時午正三刻至未处二刻辛時酉正三刻至戌初二刻紫黄綠子午卯白黑白辰戌丑碧白赤寅申已赤碧白酉上元年六月綠紫黄未中元年六月白白黑亥下元年六月黑白白是此局白赤碧是此局黄綠紫是此局此月家紫白九星立成上中下三元年分六月定局之圖也假如壬申年六月及甲申丙申戊申庚申年皆属下元年分俱是第三局取用其餘五寅年五已年五亥年總属下元年分皆是第三局其上元年分六月中元年分六月俱照此例取七月建申
+  hash: sha256:281f171b1a832b8b9806ca2bf0da1cc72fff11a7dfb7649845f7efd7303a80f8
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:702e2e83d27de7af84008f45e760725a82c4633ded8f2c3190846a08f0322c8c

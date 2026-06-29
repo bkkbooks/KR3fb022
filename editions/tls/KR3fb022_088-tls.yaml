@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 可向其例如子年則子上是太歲丑年則丑上是太歲餘倣此歲刊歲刑者太歲所刑之辰也刑僇也自刑辰午酉亥各自刑其辰無禮刑子刑卯卯刑子無思刑寅刑巳巳刑申申刑寅恃勢刑丑刑戍戌刑未未刑丑此五行生旺之氣恃强相刑其方忌興工修造博戯爭訟犯之主爭鬬血光其例如戌年則未上是歲刑卯年則子上是歲刑酉年卽是酉上是歲刑餘倣此歲破卽大耗
+  hash: sha256:c1f30c4cebe78162f0ea2dec56afe663130b09d5370f22db6c1d50ba016e1837
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:b18ef2c60bcbcbf142cba00cf0b3cfeb5d61d24e343757f47c33ad94418d316c

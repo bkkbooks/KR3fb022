@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/122
+seq: 122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 泣之事喪門在歲前二辰太歲之轅門也弔客在歲後二辰歲君之賔客也卽貴人前二朱雀後二太隂之位也前二後二與太歲不和也如子年水也前二寅後二戍合成火局而水火不和矣丑年三合金也前卯後亥之水局而受金之克矣寅年三合火也前辰後子之水局而犯歲君矣卯木則巳丑之金辰水則寅午之火巳金則卯未之木午火則申辰之水未木則巳酉之金申水則午戌之火酉金則未亥之木戌火則申子之水亥木則酉丑之金皆與太歲克者有不喪亡哭泣者哉其例如丑年則卯上是喪門亥土是弔客如戌年則子上是喪門申上是弔客餘倣此
+  hash: sha256:e4ba72bac2e6015d934bc82b31c66fc028d74ec9dd115d89bd9ac4fdcf59bd48
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:518ad9688c80065b9a425a7ee0cbb24f4eadf2a6eb9b67231c135916157f55c3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/124
+seq: 124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五鬼五鬼子年起辰逆行十二辰辰爲天罡而逆行以爲虚耗之殺也犯之主虚耗失財病崇如值歲月合日祭祀修福助之吉其例如戌年則午上是五鬼巳年則亥上是五鬼餘倣此白虎白虎居歲後四辰連歲數之後五之凶神也若以鬼神論之後五白虎宜于子年起未順行十二辰今從申起者以申位有参觜之白虎也主喪服兵凶百事忌其例如亥年則未上是白虎卯年則亥上是白虎餘倣此空
+  hash: sha256:bed7c8b3dda2a3d8e44c6a1078b8dcb1f10becd8b68218d403a7427c5a698a97
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:0db27dfec69a677d86c68006a578f2831f1cefa0e71583e4f1de09745699865d

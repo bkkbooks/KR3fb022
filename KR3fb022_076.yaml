@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲德在合在歲德者歲干德也甲丙戊庚壬陽德自處君子之立身行道也乙丁己辛癸從干合為德者隂從陽婦從夫也如甲年其德在甲自處也巳年其德亦在甲從夫也故甲巳德在甲乙庚德在庚丙辛德在丙丁壬德在壬戊癸德在戊此德神也用之主集福消殃歲合者歲干合也甲年合在巳乙年合在庚丙年合在辛丁年合在壬戊年合在癸已年合在甲庚年合在乙辛年合在丙壬年合在丁癸年合在戊此歲干隂陽之配合也用之主滅咎生祥
+  hash: sha256:8fc7d20c4e19a543d6842074abac470c038cf4e3399921b2a4048320656b0d57
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:89ab7ca22062cd491a868ba28d1c7e6d3487da7f1b6516ce73571876de49aff3

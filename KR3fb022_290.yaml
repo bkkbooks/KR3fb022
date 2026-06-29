@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/290
+seq: 290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 氣取用
+  hash: sha256:cae705666ade8b5a2a9b7a1c432c66fe44e0d2d86156575cf44b141b8034c981
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:eab5284fcee05dcd7e6e98a8e5024858d9b72f5a1fe078a713f80328b3a5d5d8

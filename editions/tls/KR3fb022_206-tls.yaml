@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/206
+seq: 206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刻之前尚属二月節氣所轄凡諸三月内吉凶神煞及七十二候皆從交淸明日時之後起春分後十五日斗指乙爲淸明言萬物至此皆潔齊而淸明矣後十五日斗指辰爲谷雨言雨生百榖淸淨明潔也雨讀去聲天道北行宜向北行宜修造北方天道乃天體運旋之氣三月節内行于北方而人趨向其方及修造此方所謂順天之道乘時之旺自必吉應天德在壬月厭在申月殺在未月德在壬月合在丁月空在丙此六位所占方位年年三月節内永定不移内惟天德月德月合月空乃吉神月厭月殺乃凶煞
+  hash: sha256:01003d8769179ff0c2b53335925b5443d9025c2ffd1fb0368fe903e0d398f007
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:24531eb7f05f71a36df79c95d7a4b9fff9e5fe39bbe612a23eb670034ee4340a

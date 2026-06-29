@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/324
+seq: 324
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後能謹而止于安安此所以成也成則收而藏之矣收則萬物已畢而氣不終窮也此所以開也然開之後必閉一開一閉一隂一陽而始能建立也此所以開與閉相交而後建也如正月之氣將窮二月之氣將開也然二月之氣一開若正月之氣不閉而二月之建亦不能建矣故開者開其將來閉者閉其巳在也建者置也立也樹也宜創造事業而建立功勳之義除者去也去故就新之義宜修造拜官遁甲經為地四戶通書為四大利星百事吉滿者足也充盈之義凡事秖宜執中過滿必溢盈極則虧平者正也均也和也易也再登曰平三登曰太平然則平字之義更
+  hash: sha256:933a5d75b9ec0ff336658ffe9e2c15223c2d99051caf1fa8db1549adbffeb19f
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:e4f3619a648cccf2b381e7c7fd2dabf34a7f27c761736ec25d35c196b82aafbc

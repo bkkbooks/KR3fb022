@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂其的于何所主管何所司屬則未敢確謂其然也至其情性之不同氣化之純駁所以敷施或異是殆理之所固然又未可以為妄誕也厯本文皆用大字其中有用者因其隨時更易不能一定故以圈記之箋釋諸說或由經傳或出叢書今不記出某書者因余丙申居王峯時諸友以厯書相質問隨意編輯無刊布之心故未及詳記况內有斷章取義者亦有參以臆見而集為一說者不敢妄指出自某書間有詳述者皆丙申後所編也厯中之理錯綜紛雜各條之下僅言其㫖明顯易知而止若多繁衍
+  hash: sha256:370bc62d74bbca4fc3c2a412fc024963d95ff27e2b8350c116a3a506cb1c4089
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:ab020cca1568ce98060664388bc86dadfb555febf489c508b1a60ee1fc9311d8

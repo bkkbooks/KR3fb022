@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大清律例刑法兮載而并示人以尊卑儀註輿服喪制等禮易扵遵行其意一也近日家置一夲不耐尋繹遇事則問飞剋擇家盲師牧䜿上下其説一惟其口是聴而不知所取心六如日用服制之舍禮律而撿家禮其謬略同大清律自王肯堂司寇註後苕中錢之清纂輯箋釋一書廣為刊布四方無苦讀律之難而厯獨闕焉之晉有志扵此採輯多年
+  hash: sha256:03cfeef220f4b3cb66ccb5f3d85ce5c919aba51c890b26fd5caab9c9a5afc524
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:6830f2da65a54b862baee68f532212992dbb4e0533a6ff14f82c8c8b7068159a

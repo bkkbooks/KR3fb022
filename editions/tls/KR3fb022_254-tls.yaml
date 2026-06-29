@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/254
+seq: 254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此月家紫白九星立成上中下三元年分八月定局之圖也假如五子年及五卯五午五酉年八月皆是上元一局圖蓋子午卯酉年皆属上元年分故用上元第一局其餘四季年用中元局四孟年用下元局取法同一例也九月建戌九月大小有不同之時而建戌則永無更易戌滅也謂時物皆衰滅也日刻寒露九月節寒露是九月節某日某時某刻者交寒露之時刻也未交寒露時刻之前尚属八月節氣用事凡諸九月內吉凶神煞及七十二候
+  hash: sha256:6f2f00b39ab91152cb2d8739f3a38fad29626f255a4ee04863f8aced6186d16c
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:82b540afbdfa2913923979e6bcdc249cf8fef7cef678229119f9236fadda58c2

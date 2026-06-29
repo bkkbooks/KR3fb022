@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與夏正同夫自黃帝至于漢初失紀紊次武帝始還于夏正史又云出諸方士之手是時拯䛉方士為邪異奚為不正于廷臣而正于方士方士能正數千年未正之夏時則水嗅羲和常儀
+  hash: sha256:fbd9c08fb90245070482d065bf6d3852bcd0be9b7293a98064db460abf01af6e
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:896034650f9954bb329a74f16fd37e1d904871218152f552377a937ddee58632

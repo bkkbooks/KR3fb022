@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/328
+seq: 328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 姻交易栽植及成就諸事皆吉收者聚斂也宜耕種收斂之財貸及捕捉等事開者闢也創也啓而通也百事俱吉惟忌安葬遁甲為地四戶通書為四大利星閉者塞也掩而合也不通之謂也宜安葬吉擇鑑云十二建星惟取除定危開四星為上吉在遁甲經為地四戶三元經為四大利其滿成執閉建破平收各有宜忌土王用事王讀旺四立前十八日為土王金木水火土各王七十二日而成歲功故四時各王七十二日惟土王于四季之月以助未之生金之成火之長
+  hash: sha256:e8bac713841941c048935b870536489aca3660597305d77b4f2f1cba23cf91bd
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:b3dd7b6905fdb5cbedfb01c486d74ef4baa7534c280e93fadc2e90b22edd2a5f

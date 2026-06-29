@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/190
+seq: 190
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因辛壬上宜修造取土丙上有月德辛上有月合壬上有月空此三方吉神所占故宜修造取土是月也東風解凍立春上五日蟄蟲始振立春中五日魚陟負水立春下五日陟音職升也獺祭魚雨水上五日候鳫北雨水中五日草木萌動雨水下五日萌草芽也東風谷風也凍結重隂得東風彂散之氣而凍自解陽和初復則物之藏于密者始起而振動潜于深者咸升而負氷魚至雨水上候則肥美可食矣必先祭之而後取之此獺之不忘其本也雁自南而北以反其居應其候也天氣下降地氣上騰陽氣蒸動故草
+  hash: sha256:89fa69a64bc6eddebe4de84e2b96fcdb94d5dcefb34539b33f8eb7a15a394d6d
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:6ad72fb457d88f082bdeafac742e14052fd4ceaac805da3c2f56b3347c810527

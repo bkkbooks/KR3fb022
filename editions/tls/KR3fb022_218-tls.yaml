@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/218
+seq: 218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而生者强而立感隂而生者柔而靡謂之靡草則至隂之所生也故不勝至陽而死此月陽盛其草隂類故死秋者百榖成熟之期于時雖夏于麥則秋乃麥成熟登塲之時故曰麥秋日刻後曰躔實沈之次小满爲四月中氣所云某日某時某刻乃交小满之日時刻也後者交小满時刻起至五月夏至中氣時刻前皆属日躔實沈之次實沈申宮也宜用甲丙庚壬時甲時寅正三刻至卯初二刻丙時已正三刻至午初二刻庚時申正三刻至酉初二刻壬時亥正三刻至子初二刻
+  hash: sha256:78257fdd68956f79332d1c0452d3c3d793b86d0bd6c500cf3a6f3a4f2392aee1
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:c9c68198d1b04cff47557026bd128e6d7e805cc914463cb54fe95bb14be599a6

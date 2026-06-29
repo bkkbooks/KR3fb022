@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月家紫白九星子午卯酉年為上元辰戌丑未年為中元寅申丑未年為下元上元正月起八白二月起七赤三月起六白四月起五黃年五月起四緑六月起三碧七月起二緑八月起一白九月起九紫十月起八白十一月起七赤十二月起六白中元正月起五黃二月起四緑三月起三碧四月起二黑年五月起一白六月起九紫七月起八白八月起七赤九月起六白十月起五黃十一月起四緑十二月起三碧下元正月起二黑二月起一白三月起九紫四月起八白年五月起七赤六月起六白七月起五黃八月起四緑
+  hash: sha256:f3b8b67a788983b6555aaa479d741471bfd4d0ae0acad08d7c2a7ea57f0f2a04
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:26750650adb014e12e5787e68c76d7af1a8920e41ef5bb285e6689fdba54f808

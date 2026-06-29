@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自序敬授民時朝廷大典也既禁私習之人恐其妄言禍福以煽惑無知之類復頒時憲厯于天下使知一嵗內吉凶所宜年以統月月以繞日太陽出入書夜刻兮織悉臚列即嵗德天道九宫紫白百忌周堂六靡不宣示焉如
+  hash: sha256:b3835edb33bf13482d89cb6519985dc010ad0a2707fba7ab247768ff3f0eb2de
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:16eb4bbaacc1db293f552354f001471a64c6f4a012900a237011c6cf08e2a6e8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/232
+seq: 232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月空乃吉神月厭月殺是凶煞甲巳庚上宜修取土甲上有月德已上有月合庚上有月空此三方吉神所占故宜修造取土是月也溫風至小暑上五日蟋蟀居壁小暑中五日鷹始摯小暑下五日腐草為螢大暑上五日土潤溽暑大暑中五日大雨時行大暑下五日溫風溫候之極凉風嚴凝之始至此候而溫風至矣蟋蟀生于土中至此時羽翼稍成猶未能遠飛但居其穴之壁至七月則能遠飛而在野矣此時一隂既起鷹感隂氣乃生殺禨學習數飛搏擊
+  hash: sha256:ca5a65db512debe4d996dea0465e360d439cce95142521d52d9552e6ec6001b0
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:28955cb52da4d9823c7e175466c2e55aa722e4d14c05c026b866d6ed34f2538e

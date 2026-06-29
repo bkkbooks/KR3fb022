@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/198
+seq: 198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日夜分也夏冬不言分者天地二氣而已陽生子極午卽其中分故言至不言分也天道西南行宜向西南行宜修造西南維天道乃天體運旋之二月節内行于西南維而人趨向其方及修造此方所谓順天之道乗時之氣自膺多福維方隅也乾坤艮巽爲四維坎離震兑爲四正天德在坤月厭在酉月殺在戌月德在甲月合在巳月空在庚此六位所占方位年年二月節內永定不移内惟天德月德月合月空乃吉神月厭月殺是凶煞甲巳庚上宜修造取土
+  hash: sha256:f25dfac55eed8b4829a5db4b362bb2f7ded3b8d337c1294e531b1425f345b9ad
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:976f59184747a50a4c69aab61910e9145897be9d18e24b3ccbc069d54d60d1eb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/248
+seq: 248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 造此方者順天之行乘時之氣自必有吉以應之天德在艮月厭在卯月殺在辰月德在庚月合在乙月空在甲此六位所占方位年年八月節內永定不更內惟天德月德月合月空乃吉神月厭月殺是凶煞甲乙庚上宜修造取土甲上有月空乙上有月合庚上有月德此三方吉神所占故宜修造取土是月也鴻雁來白露上五日玄鳥歸白露中五日群鳥養羞白露下五日雷始收聲秋分上五日蟄蟲坯戶秋分中五日水始涸秋分下五日
+  hash: sha256:152d54d4f4f6976d39913f506a5568c2cdd13376782786f85d5730f4a36bde0e
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:6ca62d47cd1b38c44531f4fd770aab674f833bc7caf00c7ec0289a3426162840

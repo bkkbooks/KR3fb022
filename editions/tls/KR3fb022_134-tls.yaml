@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/134
+seq: 134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 土更有忌葬不忌造而忌修方參互錯綜宜忌不同故曰各有所忌若有破壞須修營者此言屋字損破須修作整飾之謂卽修方之類非起造之事也以天德歲德月德天德合歲德合月德合天恩天赦母倉所會之辰此九位吉神每月必值日以主福慶嘗有數吉併聚會于一辰之時辰者卽每日所值之辰也擇用此日最吉或各神出遊曰併工修營無妨此言或者若修作之事不可緩而上之九位吉神又一時不可得卽擇各神出遊之日用之雖不能召吉亦可免災故曰或各神出遊日其太歲巳下神煞出遊之日逢子則出遊逢巳則還位各計
+  hash: sha256:cce8c381abff8dd9b3d11f8b8adb30666cafdc36bb24878864acc079645e8431
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:b3e415be0c77d7501d56d79d9b43fea644ec624351a26fca2f2e192d7095db41

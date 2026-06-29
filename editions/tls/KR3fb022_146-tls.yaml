@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/146
+seq: 146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以成功者也用子者天子居北而南面以聽政也卯酉者日月之門也故起于甲子巳卯巳酉而不起于甲午者南面係奏書之位天空之方臣下朝聘之位天子不北面也故是日宜覃恩頒赦上官叅選受封行禮嫁娶造葬入宅裝塑佛像並吉其例不拘何月但逢上所列干支卽是如六月初五日是癸未其日卽是天恩值日也餘倣此天赦春戊寅夏甲午秋戊申冬甲子甲爲干德之首戊爲干德之中子午爲隂陽之正寅申爲隂陽之成皆天地中正之氣故天寶厯曰陽盛于寅隂盛于申陽生于子
+  hash: sha256:e7511191756403dcf4836740caf372f051da6a4ae91ebafe45450a0aec705eb5
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:91c6cffe7cde0c6f301fa4d2e8eafe650e2f06dd957cf36ec0c0f78468a636cf

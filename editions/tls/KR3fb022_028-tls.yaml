@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 厯之爲書也統乾元不息之運發造化消長之理亙古今通上下自天子以至於庶人莫或違之故歷代永以爲寳而斯民亦不能一日離也以一日不可離之書顧乃不求其理不解其説徒具每年一新之陳迹良可晚嘅也此余箋釋一書所由編也厯書頒自皇朝論者謂隂陽五行非草野所當道其説固然苐不如時憲厯一書非推步書可比聖王授時于民正欲使家喻戶暁順四時之宜知吉㐫之理躋斯民于仁壽惟恐人之不能知未嘗禁人以不必知奈何世人講求者少忽略者多不知年神方位作何用紫白九宮爲何物乾坤艮巽是何時男女宮數完何取茫
+  hash: sha256:7854a75b1de61fe7a1bbeeb1178820772490920ce9a5243bee7ad10f27cfa9cd
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:400a1a004e56f3251900b0b21185ef9c540590dd3f682cf4ef18c4d01faa1c04

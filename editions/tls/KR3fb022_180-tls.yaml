@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也横列于上自立春至大寒皆大字頂格順排以列于上也欲知某省某節時刻先看第一直行大字省分所謂縱也然後横推看所查某節之下時刻所謂横也每十五分爲一刻各省俱依省城所定一晝夜分十二時一時各八刻一刻十五分積十二時得九十六刻計分得一千四百四十分一省必有一省之省城省城一省之中也故定各省之節氣必以省城爲主歲各蒙古節氣時刻各蒙古序次悉依地圖地之經度所列右節氣各有諸方不同之數横列于上欲知某蒙古某節時刻縱横查之卽得真正時刻每十五分爲一刻俱依蒙古居處所定
+  hash: sha256:a349b928b756ef01a2e69decb3bb641650dee93f2d77cd2564966bcc298cdff0
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:fc2bf49c0931305e9a109b96594af99856ac8528b47b7b77129cb79c57c734c7

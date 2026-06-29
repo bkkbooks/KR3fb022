@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/222
+seq: 222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刻之前尚屬四月節氣主事凡諸五月內吉凶神殺及七十二候皆從交芒種之日時刻後起小滿後十五日斗指丙為芒種言有芒之榖可播種也後十五日斗指午為夏至言萬物于此假大而極至也種上聲天道西北行宜向西北行宜修造西北維天道乃天體運旋之氣五月節內行于西北而人趨向其方及修造此方所謂順天之道乘時之行有不獲其吉應乎天德在乾月厭在午月殺在丑月德在丙月合在辛月空在壬此六位所占方位年年五月節內永定不移內惟天德月德月合月空乃吉神月厭月殺乃凶煞
+  hash: sha256:d1a541a6e27244a05d30296c1ca98cb75cc5ef85b9d4f33be9ad43db331963e4
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:5cf944538f58c3fa9b04038b36d5334b92e1a9f15181560839f23bdc1f66b2fd

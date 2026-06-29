@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月之節淸明小暑寒露小寒為四季月之節總孟仲季十二月之節得十有二焉謂之節春三月中氣雨水春分穀雨夏三月中氣小滿夏至大暑秋三月中氣處暑秋分霜降冬三月中氣小雪冬至大寒合十二月之中氣亦十有二焉謂之中惟閏無中氣斗指兩辰之間尚書正義節氣者周天三百六十五日四分日之一分為十二月則月各得三十日十六分日之七以初為節氣半為中氣故一歲有二十四氣分居辰次焉凡五日一候三候為氣六氣成時四時成歲月令章句中必在其月節不必在其月本月之節嘗有不在本月
+  hash: sha256:16fb2c3a33d2eb3446b63aeb1c0853e10495cc9b5476cdfa9410bc271abe1cf5
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:ef5d7d8082c91d1dc7a91f2b96824e16de22d646fdd271d19c40c2f5afcfb3f9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/228
+seq: 228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 坤時未正三刻至申初二刻乾時戌正三刻至亥初二刻白白黄子午卯赤碧黑辰戌丑綠紫白寅申已白綠紫酉上元年五月黄白白未中元年五月黑赤碧亥下元年五月碧黑赤是此局紫白綠是此局白黄白是此局此月家紫白九星立成上中下三元年分五月定局之圖也假如酉年五月酉是上元年分用上元第一局是也餘例推六月建未六月大小有不同之時而建未則永不更易未味也萬物向成咸有味也日刻小暑六月節
+  hash: sha256:30e0d4b54bd316f138c492a74e1e0735448e554e0688aed7cf955d2f10f16ff7
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:0c0ee498d42a44935c3d3d91e32c0e329e105d6873405383d2865347301e62e8

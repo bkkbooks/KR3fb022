@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/214
+seq: 214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刻之前尚屬三月節氣所轄凡諸四月內吉凶神煞及七十二候皆從交立夏之日時後起榖雨後十五日斗指巽為立夏言物至此時皆假大也後十五日斗指已為小滿言物長于此小得盈滿也天道西行宜向西行宜修造西方天道乃天體運旋之氣四月節內行于西方人趨向行其方及修造此方得天道時令之旺自獲吉應天德在辛月厭在未月殺在辰月德在庚月合在乙月空在申此六位所占方位年年四月節內永定不更內惟天德月德月合月空乃吉神月厭月殺是凶煞
+  hash: sha256:e6c0cb62209dd8ff4bcd57d9de56651ecb3d7e8325af2dcad4cc144ecca2c610
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:22913187d86e1787006504daaf8f76652d2248fbd6ea5b88706d5241c7b31604

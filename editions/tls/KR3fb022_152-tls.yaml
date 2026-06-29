@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/152
+seq: 152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辛巳壬午癸未甲申乙酉丙戌丁亥七日還南乙巳丙午丁未戊申巳酉庚戌辛亥七日還西丁巳戊午巳未庚申辛酉壬戌癸亥七日還北癸巳甲午乙未丙申丁酉戊戌巳亥七日還中例以子日出遊巳日還位陽生于子終于巳也曰出遊者陽氣行遊而隂氣不敢用事也甲子東丙子南庚子西壬子北戊子中各從其干方也凡一切修造動土候太歲諸神出遊日用工如還位日忌修作所占處若出遊之方忌修營掘鑿其例不論年分四時節氣但逢甲子乙丑等二十五日是各神出
+  hash: sha256:0891d2005388e99d6da306e532403048ca9e410ff64b98167199f98e8fc3f093
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:021b4dbaf76aba7d2edcc53f9e0519c05855691898b13337c4a61e2af44ba589

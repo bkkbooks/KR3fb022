@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/390
+seq: 390
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 男承樞景校字
+  hash: sha256:ba30f385fda3be717f432fe0f5fa8f612a630b8668190d26df7df426a3a57d79
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:0bcf367e20313909da92576600c685cdb490e16c5c2d34927e8c73ec58bbe9a4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/142
+seq: 142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此天德所合之干故曰天德合營爲百事皆吉惟忌詞訟其例如四月節内逢丙日卽是天德合所值之日餘倣此歲德合年千甲乙丙丁戊巳庚辛壬癸直看年横推日巳乙辛丁癸巳乙辛丁癸日日日日日日日日日日其例如庚年不拘何月逢乙日卽是歲德合值日又如辛年不拘何月逢辛日卽是歲德合值日餘倣此主百事吉月德合寅午戌月在辛亥卯未月在巳申子辰月在丁巳酉丑月在乙此五行生炁之辰相扶爲福所值之日所在之位百事皆
+  hash: sha256:9cba7c537ef05a3b2e2ddbc59b9d22e3824945405ec50355e758284167af05fd
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:b7d84dabe2da76da6d1232ef553212fc89a4176aabed89b27b16fdb8ba6a0a06

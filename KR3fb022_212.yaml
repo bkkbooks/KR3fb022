@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/212
+seq: 212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 碧白赤子午卯紫黃緑辰戌丑白黑白寅申已白白黑酉上元年三月赤碧白未中元年三月緑紫黃亥下元年三月黃緑紫是此局黑白白是此局白赤碧是此局此月家紫白九星立成上中下三元年分三月定局之圖也假如辰年三月辰是中元年分則九星圖用中元第二局是也餘倣此四月建已四月大小有不同之時而建已則永不變易已起也物至此時畢盡而起也日刻立夏四月節立夏是四月節某日某時某刻者交立夏之時刻也未交立夏時
+  hash: sha256:2ea4a0a85b9c689cb9615ec4e370528aa5b923bd7b5ec244898c022fe6821c45
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:fdc97dc7151cee99e80fa5ec200a907f2fc77a8ed248671d254fb44e2c9e4dfb

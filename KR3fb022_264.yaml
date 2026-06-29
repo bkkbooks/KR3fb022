@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/264
+seq: 264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立冬是十月節某日某時某刻者交立冬之時刻也未交立冬時刻之前尚屬九月節氣主事凡諸十月內吉凶神殺及七十二候皆從交立冬之日時刻後起霜降後十五日斗指乾為立冬冬終也萬物皆收藏也後十五日斗指亥為小雪天地積隂溫則為雨寒則為雪時言小者寒未深雪未大也天道東行宜向東行宜修造東方天道乃天體運旋之氣十月節內行于東方而人趨向其方及修造此方所謂順天者昌自必有吉慶以應之天德在乙月厭在丑月殺在戌月德在甲月合在已月空在庚
+  hash: sha256:81eed5a78a2f107f9bbde48923e896edf547107af3ae3333da3deb29a80654fe
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:522b296e6801d5b09145258585a2ed1e6ffbf3e188a3566b1bfe0b290cb415bf

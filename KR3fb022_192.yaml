@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/192
+seq: 192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 木萌動日刻後日躔娵訾之次躔音蟬娵音疽雨水為正月中氣所云某日某時某刻乃交雨水之日時刻也後者自交雨水時刻起至次月春分中氣時刻前皆屬日躔娵訾之次是後字管轄兩節氣共三十日也亦有三十以外有零之日然其義則同躔厯也日運為躔又星之躔次星所履行也娵訾亥宮也次次舍也言日次舍于亥宮也宜用甲丙庚壬時甲時寅正三刻至卯初二刻丙時巳正三刻至午初二刻庚時申正三刻至酉初三刻壬時亥正三刻至子初二刻
+  hash: sha256:8db7464e3fa9cc8c447747543b09fef74745d382a49432a2d526937c85b15ef6
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:452f08bf626eb3777cc10fb5a561dcb33104ed96a9c4a3cff420de7a3b70efd5

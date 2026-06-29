@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大將軍四序五行之敗方也因其敗而謂大將軍臨焉借意立名也亥子丑年在酉寅卯辰年在子巳午未年在卯申酉戌年在午其德忠直常居四正三年一易統領戰伐常居太歲之後而統御其武事焉忌修造動土百事背之吉若抵向犯之周年內損人口惟修飾無妨按索圖星殺考此金神之精若與三殺歲刑等凶會於一處名曰羣醜凶不可言其例如戌年則午上是將軍未年則卯上是將軍餘倣此力士力士者威刑殺戮之神也以四序五行論居病死之間曰力士蓋反名以振之故犯之者主瘟疫之災手足損傷之患亥子丑年
+  hash: sha256:318a5fa8584ff7d076a14d79c928c8e20e39eb91905f22554680dd4a5147ac0a
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:3da83268d9bd2a5e8cee8161518b9298d7af3220f92d5d9d255cc8e959dbf63c

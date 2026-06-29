@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/238
+seq: 238
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七月大小有不同之時而建申則永無改易申身也言此時萬物身體皆成就也曰刻立秋七月節立秋是七月節某日某時某刻者交立秋之日時刻也未交立秋時刻之前尚属六月節氣主事凡諸七月内吉凶神煞及七十二候皆從交立秋日時之後起大暑後十五日斗指坤爲立秋秋者揫也物于此而揫歛也後十五日斗指申爲處暑言瀆暑將退伏而潜處也天道北行宜向北行宜修造北方天道乃天體運旋之氣七月節内行于北方人趨向其方及修造
+  hash: sha256:9d9e8ed534af4ee2dc84f6491e239dfd9300fdfe7a2d48703ab58f292e261cb3
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:9915354f160bfd84508b582fc28fa684472b2068d212cbf476380f288d8df644

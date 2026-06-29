@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡開山立向修方安門入宅定磉得三白九紫到方位不忌將軍太歲大小耗官符及作主本命行年諸凶煞不能爲害故修造必先合紫白方位爲第一務右各神所臨之地惟奏書博士宜向之右各神乃上年神方位圖内三十二位之神也所臨之地謂所到之宮位也内惟奏書博士二神卽歲之喜神方也故宜向之吉餘各有所忌餘者除奏書博士二吉神之外尚有三十位神殺其中有忌起造者有忌修方者有忌葬埋者有忌動土者有忌修方而不忌起造葬埋者有忌起造而不忌埋葬修方者亦有忌修不忌葬而忌動
+  hash: sha256:d1e5ac5e31d2506a11f22920aacae517401613d597dfe89560fc839296949b35
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:8279a79a43295a09616557a6fcaf21f049d1c4cd01c55db0f4a316c7c8d4bcca

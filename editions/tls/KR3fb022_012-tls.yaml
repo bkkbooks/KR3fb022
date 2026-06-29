@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鬼史蓲大撓軰相較列矣烏淂以方士短之哉史之見不永䟽且悖乎我朝康熈上甲子嵗攷㝎岁差箕三子正允合尭荚夏時頒憲示準民用以諧其如嵗換年忽
+  hash: sha256:803ded7946804fbe995a38d1a062299f0835efc471389d5512aa30788532767e
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:fa7556eb802e4995897f6a6e74f833cc0685eafdaa84bd1995ee75ca5ad2f086

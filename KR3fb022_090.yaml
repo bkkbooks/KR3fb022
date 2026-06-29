@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/90
+seq: 90
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲破乃太歲所冲之辰也子午冲丑未冲寅申冲卯酉冲辰戌冲巳亥冲所在之方不可興工動土修作移徙嫁娶遠行安葬犯之傷宅長損財物更忌立倉庫莊廂置田産又損六畜歲破可向不可坐即歲破之日亦不可修造動作其例如丑年則未上是歲破未年則丑上是歲破酉年則卯上是歲破餘倣此歲殺即的殺一名人中殺又名大禁歲殺乃三合局之養位寅午戌年在丑巳酉丑年在辰申子辰年在未亥卯未年在戌三合之首以墓覆之隂毒之甚者也如寅午戌火局之三合也而丑臨於寅之上使火之無光辰
+  hash: sha256:560436077781e00d65aad865e3a4f167c7877cfb3a669d71d6a41bdff908ceba
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:15f75de24cf00d16ea230c236168ea44ebfb78cf890998d1ee9fa6fb4c46bfb6

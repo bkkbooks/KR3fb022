@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/364
+seq: 364
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 午不苫盖主出火殃午旺火也未不服藥病不安康未者味也犯之失其味也申不安牀鬼崇入房申者伸也身也犯之身反不安也酉不會客醉生顛狂酉酒也犯酒則醉矣戌不乞狗作怪上房戌者犬之旺也大旺而怪作矣亥不嫁娶不利新娘亥爲雙女主再娶也忌有百今惟取二十二者以十支切緊當從而餘可緩焉者也祀竈日凡祀竈擇用六癸曰竈属火癸属水以六癸日祀竈水火相濟之意也洗頭日
+  hash: sha256:c0f50415c803257db66159fb7101ead33a785d257a47fb225cb1a4f21ee02f64
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:520f2ff64d901d304ffecdf4fb439a518f183e810396e5481e5f257b1beffd5e

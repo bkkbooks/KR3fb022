@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陽為伏兵陽之灾來緩也故主有暗傷隂為大禍隂之禍烈也故遇凶無解二神犯之皆主立有灾咎其例如午年則壬上是伏兵癸上是大禍餘倣此破敗五鬼破敗五鬼五行之精氣也主虛耗之事尤忌修造其例看納甲五行本年干屬於何卦其卦所對冲者是也蓋冲破納甲之辰也如乾納壬甲冲乾者巽也坤納乙癸冲坤者艮也艮納丙冲艮者坤也兌納丁冲兌者震也離納已而巳年在坎坎納戊而戊年在離震納庚而兌冲之巽納辛而乾冲之故曰破敗也曰五鬼者八卦不外干五行也甲年巽乙年艮丙年坤丁年震戊
+  hash: sha256:1320be88e72ec7e3035e15814e87a247e6b71ce524f23c0b9f925adfa58105ef
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:5ab8a249517cee8a0ad6cd0191de138eda66dec22e338a9b0556e22f0474fb24

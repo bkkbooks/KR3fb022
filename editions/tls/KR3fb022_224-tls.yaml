@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/224
+seq: 224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙辛壬上宜修造取土丙上有月德辛上有月合壬上有月空此三方吉神所占故宜修造取土是月也螳螂生芒種上五日卽桑螵蛸鵙始鳴芒種中五日鵙音橘卽伯勞也反舌無聲芒種下五日反舌卽百舌鳥也以能反覆其舌而爲百鳥語故名反舌鹿角解夏至上五日蜩始鳴夏至中五日蜩音迢卽蟬也大者爲蜩半夏生夏至下五日藥名也凡物皆秉隂陽之氣而成質其隂類者宜隂時陽類者宜陽時得時則興背時則廢螳螂鵙皆隂類也故或感微隂而生或感微隂而鳴至于反舌之鳴也感陽中而發故感微隂而無聲鹿陽獸也
+  hash: sha256:cb2a840c2812cbefbc5fc39203893e3241a14461d70e05988f6a71fc007e99ea
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:57f8fdabfa0fbc6da440a48ff4ea07992edbdcee1afd5d45fb665bf6adb93002

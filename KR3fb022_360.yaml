@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/360
+seq: 360
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長星者長庚也月建五虎遁之庚辛而加以九宮之數也短星者焚惑火也用五子遁得丙丁而減朔策者也裁衣取其齊而忌或長或短也交易市貿取其一亦不可或長或短者也其說甚繁今略存大意百忌日相傳百忌存于彭祖甲不開倉財物耗亡財貸戊土之所生甲剋戊土故不開倉也乙不栽植干株不長乙木花木也犯其本也已土田園之土也剋已土卉木不生也丙不修竈必見火殃丙火在已爐治之旺火也丁不剃頭頭必生瘡丁火剋隂金之剃刀不和也頂為金門不宜戊不受田田主不祥戊田疇之旺土也巳不破券二比並亡已土生生之土不可破也
+  hash: sha256:9e7f4aff28ef9d4a790b149f892fd9aee6a5dfd30a6d2cea684c8a591a1b795d
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:5d5dd7d4d8d9e5d85c813d7f246ddf4c2f4fcd7d57490e90b850ea6ac0da0412

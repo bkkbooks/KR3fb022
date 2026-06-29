@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 閏易萌步算之思天官書之星辰並著穢祥動人推測之見其得失相玄甚遠則此書之適于用而無蹈于禁庶為天下之君子所頽讀而樂道也夫康熙六十一年嵗次壬寅八月之望書于胥江玉寧堂西湖繆之晉
+  hash: sha256:20751becaafc48837571b6e3913e32e80811d381d95e1d8fa17673da1277935b
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:d2743e4acc1642d7dd92bbc9210829379a651488ed7acbf45440963bb2752cbc

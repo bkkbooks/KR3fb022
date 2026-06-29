@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/326
+seq: 326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宜于播種五榖栽植樹木而獲倍收耳定者安也止也不爽不易之謂也宜結婚下定安石墩埋葬皆吉遁田經爲地四戶執者持也攝也固也拘留之謂也宜出行放債納畜立倉庫等類破者剖也缺也裂也不全之謂也宜破巢搗穴觧釋寃愆針灸治病散事和公等事危者高也險也不安象也思危則安人能安而思危則吉多凶少故十二建星凶多吉少惟除危開三星吉多凶少遁甲經爲地四戶通書爲四大利星成者就也畢也善也從戊從丁戊土也丁成也謂物成于中也宜婚
+  hash: sha256:a33b616abf4901c20422f0e7cfe117ddf6730da0d535880bc86205994b63645e
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:f6f0b6eca5e285e94c2dda9c15a1dd8da726236c468f4f894c2dfaf6bcac46f8

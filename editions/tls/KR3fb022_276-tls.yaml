@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/276
+seq: 276
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 觧從隂退之象蚯蚓感正陽之氣而後出穴居首陽下嚮今微陽初動則穴而上首形雖未觧而其身但結而屈也結猶屈也言伸屈其首之意水者天一之陽所生陽生而動言枯涸者漸滋發也日刻後日躔星紀之次冬至爲十一月中氣所云某日某時某刻者乃交冬至之時刻也後者自交冬至時刻起至十二月大寒中氣時刻前皆属日躔星紀之次星紀丑宮也宜用艮巽坤乾時艮時丑正三刻至寅初二刻巽時辰正三刻至已初二刻坤時未正三刻至申初二刻乾時戌正三刻至亥初二刻
+  hash: sha256:0fde1392913ca62f6ea1e17c22ed2ca8b98962f8eca16c33389020ddc47d9b67
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:1687386e1b1a0dbf80696240c8d95d033965792a4f85482075185a115a30dde6

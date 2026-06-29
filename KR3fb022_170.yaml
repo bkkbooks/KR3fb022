@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/170
+seq: 170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正之先後也即以冬至喻之如京師冬至在卯時向東之地為辰愈東必且為巳矣向西為寅愈西必且為丑矣又如雲貴地方之各節氣俱早于他省較之江浙所在俱早一時而至朝鮮盛京福建浙江江南山東江西河南湖廣廣東山西廣西陝西貴州四川雲南盛京十四省中內有兩省併合並書者其節氣相同也都城順天府之節氣已見于前故此不列其查看法先尋直行大字省分地方然後橫推查某節氣時刻分數立春雨水驚蟄春分淸明榖雨立夏小滿芒種夏至小暑大暑立秋處暑白露秋分寒露霜降
+  hash: sha256:6a0df1fb3509389aa642a61364c2c843b8e12be40e09eac40b2871613e6e03c8
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:bbdccbf96adc745bb350491b41d0720ae7af3a27f625bb5ce93a62a321a2441d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/220
+seq: 220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黑赤白子午卯白緑碧辰戌丑黃白紫寅申已紫黃白酉上元年四月白黑赤未中元年四月碧白緑亥下元年四月緑碧白是此局白紫黃是此局赤白黑是此局此月家紫白九星立成上中下三元年分四月定局之圖也假如亥年亥是下元年分用下元第三局是也餘倣此例取五月建午五月大小有不同之時而建午則永無改易午長也大也言物皆長大也日刻芒種五月節芒種是五月節某日某時某刻者交芒種之時刻也未交芒種時
+  hash: sha256:0abfb39efffe5ff15fe7ebad94394a0d70c23a6f61c886eb0abcba536274dc1e
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:85118c332f52b1348c9a8ea3e5d67f0740116c330c7cea963a2db4956acd5dde

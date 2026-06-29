@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/196
+seq: 196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日刻驚蟄二月節驚蟄是二月節某日某時某刻者交驚蟄節之時刻也未交驚蟄時刻之前尚属正月節氣主事凡諸二月内吉凶神煞及七十二候皆從交驚蟄日時之後起雨水後十五日斗指甲爲驚蟄言蟄蟲震起而出也後十五日斗指卯爲春分分半也當春分九十日之半也又曰陽也夜隂也故陽長而隂消則日長夜短隂短則陽消故日短夜長皆非隂陽之中也夫陽生于子終于午至卯而中分隂生于午終于子至酉而中分故春爲陽中而仲月之節爲春分秋爲隂中而仲月之節爲秋分春秋之分則隂陽適中而日夜無長短之差故于其月每言
+  hash: sha256:f6cd946083cde7c6cd9cdde77d97ae8a97a10e70712884f88e8b86a6a91b84ec
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:226e33c03060e4e80bb17c2b6a376adcd8c89a9bbdb1b9eb907f881292dfdeff

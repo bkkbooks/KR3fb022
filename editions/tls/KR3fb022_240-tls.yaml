@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/240
+seq: 240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此方所謂順天之道乗時之氣自獲吉應天德在癸月厭在辰月殺在未月德在壬月合在丁月空在丙此六位所占方位年年七月節内永定不移内惟天德月德月合月空乃吉神月厭月殺是凶煞丙丁壬上宜修造取土丙上有月空丁上有月合壬上有月德此三方吉神所占故宜修造取土是月也凉風至立秋上五日白露降立秋中五日寒蟬鳴立秋下五日鷹乃祭鳥處暑上五日天地始肅處暑中五日禾乃登處暑下五日
+  hash: sha256:c9da84b20a37fc4af2149a1cde70292c8ba5935c90dc626b60d0095bca4912fb
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:a52b4b27033dd5ffe46673ff00c31e9945c377715a0b7943eb36a553f24b8be6

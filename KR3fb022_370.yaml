@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/370
+seq: 370
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 干則陽微隂年干反剋于日干則隂盛故忌會客作樂及上官逺行婚娶等事甲年癸亥日乙年已已日丙年乙亥日丁亥辛已日戊年丁亥日已年癸已日辛年乙已日壬年辛亥日癸年丁巳日嫁娶了周堂圖凡選擇嫁娶日大月從夫順數小月從婦逆數擇第堂厨竈日用之如遇翁姑而無翁姑者亦可用值夫值婦必須别擇吉日若值翁姑通書云新人入門時翁姑暫出外少避亦可權宜用之此說不可從惟翁原出遊在外如值姑則可權用耳
+  hash: sha256:5713647e1c0cf1fd015597f5913652ac6de84805484ffd52198a6d35c07495e2
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:28d86d18eb93a83bbad89a96b89e0da8c007f1e2e939f95eaac95f636d16a738

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/286
+seq: 286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丁時午正三刻至未初二刻辛時酉正三刻至戌初二刻碧白赤子午卯紫黃緑辰戌丑白黑白寅申已白白黑酉上元年十二月赤碧白未中元年十二月緑紫黃亥下元年十二月黃緑紫是此局黑白白是此局白赤碧是此局此月家紫白九星立成上中下三元年分定局之圖也假如戌年十二月戌是中元年分則第二局是也又如午年十二月午是上元年分則第一局是也又如癸卯年十二月卯是上元年分則取用第一局之圖是也餘倣此
+  hash: sha256:4e0c23d6ad4fae5e38e6d4d28603b66a1b55536a36e7498e818d2a0735535de0
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:efbcc20647e5c004ee002230b73365d60a953845e096d304a30ba02064f5d039

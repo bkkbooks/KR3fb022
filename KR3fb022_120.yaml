@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亥子丑年坤寅卯辰年乾巳午未年艮申酉戌年巽犯之損蠶桑春間修作犯之尤不宜主年年損蠶其例如丑年則坤上是蠶室午年則艮上是蠶室餘倣此蠶命蠶命蠶之命也子年在未丑年在午寅年在亥卯年在戌辰年在巳巳年在丑午年在寅未年在申申年在卯酉年在辰戌年在子亥年在酉犯之損蠶桑其例如午年則寅上是蠶命丑年則午上是蠶命餘倣此喪門弔客喪門弔客主死喪哭泣之事百事並凶更不宜行喪葬埋主招哭
+  hash: sha256:3cbc7ac174b151f2a6e93065041cb12c3f70f72fb0ea6b83fa7fd45c68af9a3c
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:12940ccc915dde6dfd0fb2d0a47cedb178193a543a7251df001f66ca64661d6d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反易㫖晦且恐讀者無所指歸若必欲探其原盡其蘊但于箋說中求之自得其中編輯失宜疏解舛誤及舉一漏百詳說未盡處應是不少伏祈海內名公先達博雅君子惠而教我樂莫大焉箋說嗣出客吳半巢主人繆之晉識
+  hash: sha256:51ea07887e6c8c0eeed93466edcd1b3271b35cbf44e8a1442384b645362d2a18
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:37a67d15fbc1494f93945ffd0e16ec42fdece4997c813d7c1731c4e259da844d

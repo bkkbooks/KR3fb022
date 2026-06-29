@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/388
+seq: 388
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子年白虎鬼賊丑寅卯未年小通辰年小墓已午年大通申酉年害財戌年大墓亥年氣絶鬼賊羽姓宜正二十十一月不宜三九月子亥年大通丑未年鬼賊寅卯申酉年小通辰年大墓已年氣絶午年白虎戌年小墓
+  hash: sha256:deeb82fbf9c5c0298ab7686bdc2aff917f549fce732a58bcb3d6c08497537ffa
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:4059b82af17dca9464073cedaf472a5e26a79abd36b7756a2bc2d28b1102baa6

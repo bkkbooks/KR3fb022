@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/266
+seq: 266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此六位所占方位年年十月節內永無改易內惟天德月德月合月空乃吉神月厭月殺乃凶煞甲已庚上宜修造取土甲上有月德已上有月合庚上有月空此三方吉神所占故宜修造取土是月也月始冰立冬上五日地始凍立冬中五日雉入大水爲蜃立冬下五日蜃音甚蛟属或云大蛤然此蜃當是蛤属非蛟属也虹藏不見小雪上五日見音現天氣上升小雪中五日地氣下降小雪下五日寒氣嚴凝水乃始冰隂盛陽閉地乃始凍雉飛物應時而化爲潜
+  hash: sha256:2996390a7ca129244aecc53d86efb82f736583902d90d509af07c966fd263fcd
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:537925d1d1d9e9c1ba3dbf5c29062204bbfff78eb372752309772424442c9252

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/258
+seq: 258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙上有月德辛上有月合壬上有月空此三方吉神所占故宜修造取土是月也鴻雁來賔寒露上五日雀入大水爲蛤寒露中五日菊有黃華寒露下五日豹乃祭獸霜降上五日草木黃落霜降中五日蟄蟲咸俯霜降下五日雁以仲秋先至者爲主季秋後至者爲賔如先登者爲主人從之以登者爲客也雀于此時入海變蛤飛物化爲潜物也菊色不一而專言黃者秋令金其色黃以黃爲正也桃華于仲春桐華于季春皆不言有獨菊言有者以萬物皆華于陽獨菊華於隂故物言有桃花之紅桐花之白皆不言其色獨菊言其色而曰黃者以華
+  hash: sha256:75b3ab58defe5726fb6b93bf63dca9e94dd061f31448b5b2c15dc271233b197e
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:8fdf9326b965f97e6f791af64e780e80eeb1f61d6d1536282a9f87d49fc8eab7

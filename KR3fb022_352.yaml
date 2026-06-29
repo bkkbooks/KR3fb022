@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/352
+seq: 352
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如庚午男命三十四歲今于康熙六十一年欲起造上元庚午男命係四宮按訣四宮入已即于巳上起甲子順行乙丑午丙寅未按六十甲子輪排則庚午在亥宮就亥上起一十子上二十丑上三十寅上三十一卯上三十二辰上三十三巳上三十四而住其年不在辰戌二宮可用餘倣此女命例同惟逆行耳天恩上吉日例說見前天赦上吉日例說見前母倉上吉日例說見前天德合例說見前太歲巳下神殺出遊日例說見前
+  hash: sha256:e24662f9b60df6f8c9c47382a6d3d47cd10d0ed2b95e1796be7acce283f7bf96
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:ab1ac888de8434898bad9f5dce2e97f7d987a535029e01e6e8c0447cec344ab1

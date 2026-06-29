@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 略弗究急則求推于測家永苐按逮以酬往往誤失趍避雖安置一帙水有如無蓋由其不知厯理即因之不識星步繆隱君感而憫焉爰加箋釋燦列井條俾義藴畢張家喻戶
+  hash: sha256:5b49d9316a6d657946f721814f8671d5b764cdf26347761953d23449464f86e3
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:4529ee90d671099ce143e5baacd02f2f8293e43321fdc251df4b381ecf3e0d98

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/278
+seq: 278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 緑紫白子午卯白白黃辰戌丑赤碧黑寅申已黑赤碧酉上元年十一月白緑紫未中元年十一月黃白白亥下元年十一月白黃白是此局碧黑赤是此局紫白緑是此局此月家紫白九星立成上中下三元年分十一月定局之圖也假如未年十一月未是中元年分則十一月紫白九星圖用中元第二局是也其餘年分十一月九星圖倣此查取十二月建丑十二月大小有不同之時而建丑則永不更易丑紐也言終始之際以紐結為名也日刻小寒十二月節
+  hash: sha256:0ee2cc8b63d1267bc6691db9ee9f964aba86da330dcaeae3cb7d945cf8fad4f5
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:58d67bb478c9245afac7d4af26ba059276239bd9c8b0b8b1f9e4f76339eb22f3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上宜修造取土上是歲德上是歲合吉方也故是方修造取土最吉修是修方改換增餙動作之類造是開山新建創造等類取土是開掘取土之類日得辛自歲旦數去看第幾日是辛如初四日辛便是四日得辛如初七是辛便是七日得辛餘倣此是日祈穀祀上帝占候家以何日得辛占一年之水旱五穀田蠶之豐歉龍治水自歲旦數去看第幾日是辰如初一是辰便爲一龍治水如初五
+  hash: sha256:0d18d22edf254f55c2cf329af65e018dee67bc99ca528085a1acfe72857e2171
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:0addc86e82966c51e09114eedcd6c1a07c79225cdd3b95ffcea2e72a9961dd70

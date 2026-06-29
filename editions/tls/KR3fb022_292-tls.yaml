@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/292
+seq: 292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求每月建干五虎遁訣甲已之年丙作首乙庚之歲戊爲頭丙辛之歲尋庚上丁壬壬位順行流更有戊癸從何起甲寅正月好追求假如辛年欲如正月建干其訣係丙辛之歲尋庚上則正月建庚寅二月建辛卯三月建壬辰按其甲子順排十二月建干皆得矣天道正月南行二月西南行三月北行四月西行五月西北行六月東行七月北行八月東北行九月南行十月東行十一月東南行十二月西行天道乃天體運旋自然之旺氣與天德同義天德其體而天道其
+  hash: sha256:2f71cfdd960a5b9a7a190c9b73aff838b4e1f06a752eabe0f19a566b9b5a5c4f
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:16ac4daa5be4438daf887f89c3ad83f655cfc27e3cbfd76706f8e13bb81c6146

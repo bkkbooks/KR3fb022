@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/160
+seq: 160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以順天之太陽出入晝夜時刻而為本省之太陽出入晝夜時刻矣各省則大字直行明列于首前列八省後列八省日出日入晝刻夜刻小字橫列于上欲知某省某月時刻縱橫查之即得真正時刻假如江南省欲知日出入及晝夜長短先看首行江南二大字橫查去即知某月某日日出日入及書夜長短之時刻正月日出日初日入上頂格橫列月日次序順看晝刻下底格橫列月日次序逆看初日夜刻十月初日出上頂格橫列正月初日之日出日入日日入晝刻夜刻長短遲早與下底格橫列九晝刻月二十日之日出日入晝刻夜刻長十日夜刻短遲早同二
+  hash: sha256:9d42896028e1b3c96328eef23b27acfa9f636f2685c058c2d237e0b48f7d0bf7
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:d2f970145a3e7bd1be005a2e4e077b17147d8a505b9e87cf32f5a6d84e484bdb

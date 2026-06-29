@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/188
+seq: 188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七十二候亦皆從十八日起此則節先超過本月朔朔未至而節先到者也故立春在舊年十二月者書上有年前二字大寒後十五日斗指艮為立春立始建也春氣始至故謂之立也後十五日斗指寅為雨水雨水中氣也言雪散為雨水矣天道南行宜向南行宴修造南方天道乃天體運旋之氣正月節內行于南方而人趨向其方及修造此方所謂順天之道乘時之氣自獲吉應天德在丁月厭在戌月殺在丑月德在丙月合在辛月空在壬此六位所占之方位年年正月節內永定不移內惟天德月德月合月空乃吉神月厭月殺是凶煞
+  hash: sha256:f1e86374d21a60e373e63b4ebe87d90f54577231dcaca9b4c9fb9f09d286359f
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:cc5913ae94850a75340fddae53647ca21b64fa0d9f1cf6725930db49222fd1b3

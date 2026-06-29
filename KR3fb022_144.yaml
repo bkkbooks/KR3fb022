@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吉可以拜封上宮遠行結婚修造動土祭祀開張移居納財畜市買種植並吉惟忌詞訟其例如五月節氣內逢辛日即是月德合值日蓋五月月德在丙丙與辛合故五月內之辛日即月德合也餘倣此天恩甲子乙丑丙寅丁卯戊辰巳卯庚辰辛巳壬午癸未巳酉庚戌辛亥壬子癸丑自甲子至戊辰五日天數五也自巳卯至癸未五日地數五也自巳酉至癸丑五日共三五一十五河洛之交數也自甲巳起者用為首出庶物帝出乎震者也巳為甲配后德之象坤土之位助甲
+  hash: sha256:8d90a1d54c835cd1d1e92f92cbbeb214b35894ad16a3450a4b843083facc36d8
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:708385d3e8e4eefd92280e65c7d1cdf7a7b8e8b46ecbd9f0368fb7e459d29fb2

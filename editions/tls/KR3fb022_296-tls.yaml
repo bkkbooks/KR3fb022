@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/296
+seq: 296
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正月戌二月酉三月申四月未五月午六月已七月辰八月卯九月寅十月丑十一月子十二月亥十一月建子陽氣自子而丑而束行今乃自子至亥而西行矣丑月建午隂氣自午而未而西降今乃自午至已而東生豈非與月建之氣相違而厭者乎故曰月厭其氣與天時相拂戾如地下焚燎之火無情也故又曰地火忌嫁娶移徙冠笄分居出行造酒醋百事犯之不利月殺一名月虚正月丑二月戌三月未四月辰五月丑六月戌七月未八月辰九月丑十月戌十一月未十二月辰
+  hash: sha256:3bc3c5bb87b66b2503334868ba36e2123fd3ea1209e0c4f43166d039ff1c0b3a
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:0b4ff584d8037bd3fb759c57835e85b326a107fc8a07a61fa568dd02614d968b

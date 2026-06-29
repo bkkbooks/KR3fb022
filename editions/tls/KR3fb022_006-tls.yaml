@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時也太史公叙黄帝㝎厯而變扵中古以至失紀扵春秋踵紊扵戰國縻亂扵秦雖漢興未能挾合武帝始同扵夏正然何以云招致方士唐都兮其天部運筭轉厯然浚日辰之度
+  hash: sha256:e3e3ec11ffbdc57add123222505eae0be3966f9d9fb748074b8a52463b8be5ad
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:1ba884f9d6486afc4e62a23204b7923f23e2f03acbf39133de115b8a51aa7029

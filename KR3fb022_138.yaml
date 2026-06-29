@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之所宜同其例如正月節氣內逢丁日即是天德所值之日二月逢申日即是天德所值之日餘倣此歲德年干甲乙丙丁戊巳庚辛壬癸直看年橫推日甲庚丙壬戌甲庚丙壬戌日日日日日日日日日日宜上官赴任百事吉其例如甲年不拘何月但逢甲日即是歲德值日餘年倣此月德寅午戌月在丙申子辰月在壬亥卯未月在甲巳酉丑月
+  hash: sha256:e17bb43fb516d6718523ff8eac5bbcc0e889c1326750b3a11170097bf849b48b
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:8b6a0111d2566b7a7c68734392315245e9344f8034021ec326026b08a08de181

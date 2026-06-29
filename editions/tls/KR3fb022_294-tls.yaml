@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/294
+seq: 294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用也凡人趨向之及修造此方所謂順天之時得天之旺自獲祉福之應故嫁娶出行移徙一切動作值之皆吉天德正月丁二月坤三月壬四月辛五月乾六月甲七月癸八月艮九月丙十月乙十一月巽十二月庚天德天之福德也四孟月取其旺神之上所臨之天于以爲德四仲月取墓神之歸藏而含蓄以爲德四季月取庫之旺以爲德所在之方爲福德萃聚之地凡興工動土起造安葬修營移居入宅上官出行結婚求福求財藏胎衣百事並吉月厭大禍一名地火
+  hash: sha256:0e07131379eb75a15600109c4d5816707a029f0e7878b5ed0f9638133aa62eb8
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:47ad3ed2d74ee9c544a8a0be12c058a12f7e9ce80e860e2b58777f401112cc16

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/320
+seq: 320
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 每以七日為期每日各屬一宿所謂宿者蓋取七躍經行止宿之義且用以便于測算經度也天文志云星乃天之經宿乃天之緯故二十八宿迭運循環周流而無停息故書亦因之有年月日時遞一宿以司之較諸神煞附會起義者未可同日而語也建星十二建星次序建除滿平定執破危成收開閉起例如正月建寅則正月節內逢寅日即是建卯日除辰日滿挨次順排十二辰二月建卯則二月節內逢卯日即是建辰日除巳日滿午日平順排十二辰則每日之值日建星皆得矣餘月倣此例推
+  hash: sha256:8c2f6537ff46c9b986ae50233e0dd89c9f47c94299e25e28f67779adcf1226a7
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:893f0605c6477c9d85661b834a28fe4ecfe8c16f9d91a4894f7c820ca69651fc

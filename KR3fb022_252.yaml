@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/252
+seq: 252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日刻日躔壽星之次秋分是八月中氣所云某日某時某刻乃交秋分之日時刻也後者自交秋分時刻起至九月霜降中氣時刻前皆屬日躔壽星之次壽星辰宮也宜用艮巽坤乾時艮時丑正三刻至寅初二刻巽時辰正三刻至已初二刻坤時未正三刻至申初二刻乾時戌正三刻至亥初二刻赤碧黑子午卯緑紫白辰戌丑白白黃寅申已黃白白酉上元年八月黑赤碧未中元年八月白緑紫亥下元年八月紫白緑是此局白黃白是此局碧黑赤是此局
+  hash: sha256:eef8d9ca0ce6bda32a2c67b25696567d38be6e21e67160b4b59e38ddc8525ad3
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:ecebc37bf16073b07dce09a992b19eac0ad09d36bd7304a9e1a6cf381c96bec5

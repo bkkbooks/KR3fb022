@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/368
+seq: 368
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寅午戍月以子中霹靂之火而冲午中正陽之火也亥卯未月在卯以卯中爐中之火而發震雷之火也申子辰月在午以午中天上之火而激子中霹靂之火也已酉丑月在酉以酉中之丁火而發酉中山下之火也此天道自然之火不測而生者也其例如二月逢卯日即是天火八月逢酉日即是天火餘月倣此上朔日今年但逢日為上朔日不宜會客作樂上者陽生于子今用亥亥在子上隂生于午今用已巳在午上朔者蘇而復生也上朔二字之義本此其例則陽年以年干加寅隂年以年干加丑陽年數至亥隂年數至巳則得上朔日矣寅為艮之鬼門丑乃物之終極收斂而無發生之氣且陽年干受生于日
+  hash: sha256:64ae5db74ff4031dae7ecfd2de64e40d405555a3e3a61e04d52a85e9473dc8ab
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:07da52eae054e61fed93f82b794f13fc3f8f7ae0e15e9e9db7f54a2cf30e2bdd

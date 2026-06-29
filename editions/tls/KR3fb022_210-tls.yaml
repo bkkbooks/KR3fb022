@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/210
+seq: 210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者也鳴鳩飛而以翼拍身相摯謂之拂羽趨農事之急也戴勝乃織維之鳥頭上有花勝故謂之戴勝此時當集桑上言降者若時自天而來所以重蚕事也日刻後曰躔大梁之次榖雨爲三月中氣所云某日某时某刻乃交榖雨之時刻也後者自交榖雨時刻起至四月小满中氣時刻前皆属日躔大梁之次大梁酉宮也宜用癸乙丁辛時癸時子正三刻至丑初二刻乙時卯正三刻至辰初二刻丁時午正三刻至未初二刻辛時酉正三刻至戌初二刻
+  hash: sha256:58706e56b25df4638bcefe1856a8d8500b57260da7fd5105db4a16e578ea0924
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:d2ce5db74bf51daeab07e831820ced46f73cf71aa9efb793abe20cbf6e82700e

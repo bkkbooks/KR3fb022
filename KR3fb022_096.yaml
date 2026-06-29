@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人後二位之太隂也有后妃之象焉統領隂教總御羣靈所在之地不可興工動土修造移徙向之損隂人小口招隂私之厄惟履之以學道則吉歲在四孟與大將軍合於四仲名曰羣醜天地凶殃必在羣醜者是也其例如戌年子上是太隂午年辰上是太隂餘倣此奏書奏書者乃歲之吉神天之掌記以四序五行論在冠帶臨官之間有臣述職之意居於歲後之四維所以輔佐太歲而掌諫諍之任者也故曰奏書初起於乾者順天之道陰德之義出天門而理政也亥子丑年在乾寅卯辰年在艮已午未年在㢲申酉
+  hash: sha256:b3a67fa3894e353f11ade01fb10bd1d063e251cbb629cddf9b20325a24b74d95
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:0e8f09ac74503915a6b22178868a791926610939f6408cdbe19705cad86420f2

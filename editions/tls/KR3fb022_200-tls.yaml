@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/200
+seq: 200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲上有月德巳上有月合庚上有月空此三方吉神所占故宜修造取土是月也桃始華驚蟄上五日倉庚鳴驚蟄中五日鷹化爲鳩驚蟄下五日立鳥至春分上五日雷乃發聲春分中五日始電春分下五日桃桃樹也倉庚黄鸝也言木之至候而華鳥之應候而鳴矣王制言鳩化爲鷹秋時也此言鷹化爲鳩者以生育氣盛鷙鳥感之而變耳化者反歸舊形之謂故鷹化爲鳩鳩復化爲鷹如田鼠化爲鴽鴽又化爲田鼠若腐草爲螢雉爲蜃雀爲蛤皆不言化是不再復本形者也玄鳥燕也世謂春社則燕來要知春社恰在春分上
+  hash: sha256:d973ac40747e7c9aaadcb2a363b622059ab106812ae23a08d816b6c88650f2ae
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:a2f27df3793db7985f7d94f279bd41318f6aae2b0ec34c45759c266eac07287e

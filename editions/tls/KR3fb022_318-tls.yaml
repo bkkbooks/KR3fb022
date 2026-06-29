@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/318
+seq: 318
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 演禽經有值年值月值日值時四禽星而書中惟用值日禽星其始從天元歲積宿策累除筭至今康熈二十三年上元甲子年禽畢月鳥天正月禽室火猪冬至日禽尾火乕子半時禽昴日雞二十八宿次序角木蛟亢金龍氐土貉房日兎心月狐尾火虎箕水豹斗木獬牛金牛女土蝠虚日鼠危月燕室火猪壁水貐奎木狼婁金狗冐土雉昴日雞畢月烏參水猿觜火猴井水犴鬼金羊柳土獐星日馬張日鹿翼火蛇軫水蚓此二十八宿各以一宿分列每日之下爲值日禽星内以房虚星昴四宿爲属太陽之日心尾畢張爲属太隂之日是外五緯各属四宿
+  hash: sha256:ee0ac19b6a4f50e7b109463b8fca22277c12c4de48c60dad27c5e7b9ba14cf52
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:30e37533a82548ba3177fedd78055780c35c454ebc988770c44c0eba9f5cfddd

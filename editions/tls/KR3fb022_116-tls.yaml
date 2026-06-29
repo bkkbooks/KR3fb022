@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/116
+seq: 116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 洞原經黃旛時出乎軍中葢張于庫上是也豹尾則居黃旛之冲虎賁之象先鋒之將也黃旛後坐豹尾前陳此之謂歟寅午戌年在戌申子辰年在辰巳酉丑年在丑亥卯未年在未其對冲之位卽豹尾皆忌動土取土開門嫁娶納財收畜及作百事主損小口六畜豹尾方尤忌納有尾之畜其例如寅年則戌上是黃旛對冲辰上是豹尾餘倣此蚕官蚕官者司蚕之官也亥子丑年在未寅卯辰年在戌巳午未年在丑申酉戌年在辰葢土神者養神也居歲之前而養育之居蚕室之後而司理之者也况季土之神桑柘之所產也
+  hash: sha256:704cccc6ad75c5820bcbe54b901375a627fde9d7cc1fbf4d342df5b59549faba
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:d6af3021c816ce166337a0a71147ecec4fa62a0d6ecfb01ed02e22c3e2caf634

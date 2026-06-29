@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/282
+seq: 282
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月合月空乃吉神月厭月殺是凶煞甲乙庚上宜修造取土甲上有月空乙上有月合庚上有月德此三方吉神所占故宜修造取土是月也鴈北鄉小寒上一五日鄉去聲早者此月北鄉晚者二月北鄉鵲始巢小寒中五日此據晚者而言早者十一月始巢雉雊小寒下五日雊音姤嗚也雞乳大寒上五日征鳥厲疾大寒中五日水澤腹堅大寒下五日鴈北鄉則順陽而復也鵲于復之日始巢十一月乃復卦之月雉火畜也感于陽而後有聲以求偶也雞木畜也麗于陽而後有形
+  hash: sha256:5d3ece57d6149041373bda47df54903c25d51f2a6395d6da7d4a3b9557e3defb
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:a95a60f937d86a9fb16faf972540be1a0336a3de160efed7971d2f0f3976fe70

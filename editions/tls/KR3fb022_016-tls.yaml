@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 暁贯者各知君子趋避之宜其羽翼時憲為功世闇豈淺鲜哉吁缪君之學与行固常有志能用用也斯以半隱名則猶有不隱者半欤箋釋云乎哉吾
+  hash: sha256:6f23af87f8422acd0144795a26ec5b1b5fd64be4b468a1a6fb44c420507b8ebc
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:54d8a87c35e1beb967f8080e52fc2447d28214bc711e205b02c443d063e1aa12

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/300
+seq: 300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任嫁娶移徙納財買畜交易契券百事並吉月合卽月德合正月辛二月已三月丁四月乙五月辛六月已七月丁八月乙九月辛十月已十一月丁十二月乙月德所合之干也以隂干之妻配陽干之德天地交合上下同志夫婦一心也凡修造動土拜表上官遠行結婚祭祀開張移徙納財畜種植並吉月空一名月慶正月壬二月庚三月丙四月甲五月壬六月庚七月丙八月甲九月壬十月庚十一月丙十二月甲
+  hash: sha256:5f7e101abcc4b0154ddb281adc12f361ca5573064c53dbfc93c38ecb17f3fc84
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:e8519ce78ab3430fdfc49804b2d9c875c7f7f4dabcf87fb72fe168cb3d691a91

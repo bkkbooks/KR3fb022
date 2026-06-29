@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/262
+seq: 262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丁時午正三刻至未初二刻辛時酉正三刻至戌初二刻白黑白子午卯碧白赤辰戌丑紫黃綠寅申已綠紫黃酉上元年九月白白黑未中元年九月赤碧白亥下元年九月白赤碧是此局黃綠紫是此局黑白白是此局此月家紫白九星立成上中下三元年分九月定局之圖也假如辰年九月辰是中元年分用第二中元圖局卽是也餘倣此十月建亥十月大小有不同之時而建亥則永無變易亥劾也言隂氣劾殺萬物也日刻立冬十月節
+  hash: sha256:80801d3e1d8543e3d691b90343575237eb0ae4273e6d54cee937d4d2b6ce55ba
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:2d5708be71248b7fd544dba50fb8182a04c233a2bc33eefd4af31f8f22e66a49

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/106
+seq: 106
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 移徙嫁娶百事不宜犯之主公事其例如寅年則戌上是飛亷戌年則子上是飛亷餘倣此大殺一名霹靂火大殺灾殺之對宮乃三合居中之辰將星之位歲中之剌史也申子辰年在子已酉丑年在酉寅午戌年在午亥卯未年在卯犯之主官刑傷人財防殺傷之禍其例如辰年則子上是大殺丑年則酉上是大殺餘倣此金神金神乃白虎之神以本年五虎遁遇庚辛所臨之支爲天金神遇納音屬金之干支爲地金神曰七煞者從甲至庚爲七也主兵戈
+  hash: sha256:75f2ec7e0d5617f79684eeba82c4382081221ce54e7dcfa02e09600f0b6e9d7d
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:d33a6fa9e5eb3634b37430bc957e82997660807a20fc7ead6fb83ba4e720c4a1

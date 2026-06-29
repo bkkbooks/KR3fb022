@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/246
+seq: 246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 緧縮也日刻白露八月節白露是八月節某日某時某刻者交白露之時刻也未交白露時刻之前尚属七月節氣管轄凡諸八月吉凶星辰及七十二候皆從交白露日時刻之後起處暑後十五日斗指庚爲白露言隂氣漸重露凝而白也後十五日斗指酉爲秋分隂生于午極于亥故酉其中分也仲月之節爲秋分秋爲隂中隂陽適中書夜長短亦均焉天道東北行宜向東北行宜修造東北維天道乃天體運旋之氣八月節内行于東北人能趨向其方及修
+  hash: sha256:d02ca0a869d8066c88e0f590eae7a1004d8a4642037ea99a158aa7d0e49de458
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:b369e922528d818ac24dd79b242739e9a4c8c14c7ad0512502474cc37ef82a1b

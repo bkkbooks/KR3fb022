@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本朝定鼎都直隸順天府禹貢冀州之域天文尾箕分野今首列順天府節氣時刻者重皇畿也凡順天省內節氣時刻則準此若別省節氣時刻又不同於此當查後各省節氣時刻局內自明正月二月三月四月五月六月七月八月九月十月十一月十二月日與天會一歲一次而二十四氣由之以生然二十四氣凡三百六十日有奇而周月與日會一歲十二次而十有二朔由之以合然十有二朔凡三百五十四日有奇而周歲從太陽一日一度一年行一周天而與天會則歲功成故曰歲月從太隂一日十三度有奇一月行一周天而與日會則月朔定故曰月
+  hash: sha256:6862ef5b0ab5f14a21ceb22f2be2cc2fe695609b4589c28b05e96cb371743d57
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:de2d18a70fc058b567192766046de5e9b4325aa8ee6e8c79f8ef4c71cbb4884e

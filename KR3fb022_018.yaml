@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方與之論隱義矣是為序雍正元年春王吉日雲逸子撰
+  hash: sha256:64c39228a4d0ca8e8172b4f258c7a654908844e692dfdd5798a711d4425e0e56
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:57fb3b8e638f8fce4de24e0dfe31f174995a22950d0772a39b83933680ae553e

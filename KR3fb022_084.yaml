@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖中吉凶神殺共三十二位太歲歲刑歲破歲殺劫殺災殺太隂奏書博士將軍力士官符飛廉大殺金神伏兵大禍破敗病符死符小耗大耗喪門弔客五鬼黃幡豹尾蠶官蠶室蠶命畜官白虎圖中神殺儼然邦國規模方位隂陽備具人情物理蓋太歲君而太隂后將軍力士博士奏書非佐理文武之臣乎蠶官畜官飛廉大殺非分曹任職之吏乎若乃宫室器用則黃幡豹尾蠶室將軍以著其象而物類昆蟲則蠶命白虎以兆其端况夫金神也則剛堅肅殺之機病符死符也凋落摧傷之候五鬼破敗大禍伏兵乘
+  hash: sha256:257d5fd288ace7536fed76571e3e3d22b099fa07eef61191ac2f5d0b048650a2
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:b1a40a95ac61d9c3105a7b9108addb1c2539319c9493d04ee9e31b63dd348d7c

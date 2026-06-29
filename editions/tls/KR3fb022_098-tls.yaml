@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戌年在坤其方不宜穿掘修營向之極吉候歲天道天月德同到泥餙大利其例如寅年則艮上是奏書酉年則坤上是奏書餘倣此博士博士常居奏書之對奏書治政於内博士綱紀於外掌天子明堂政治之神也故起於㢲之明堂也居四維而不中者謙而不敢自耑所以維持天子坐鎮四隅者也以四序五行論凡在墓絕間曰博士有出潛龍見之意向之最吉其宜忌與奏書同其例如卯年則申上是博士午年則乾上是博士餘倣此大將軍
+  hash: sha256:109267102958bde7dbd5672b863974fbab0494d1852503b04005527377b3fdba
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:498d6a5b65e642280f96ff91b8d75c635c31e5000c3cc918ec92fef4998996a9

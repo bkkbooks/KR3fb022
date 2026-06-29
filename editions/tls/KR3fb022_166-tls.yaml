@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄道爲冬夏大略如是歲各蒙古太陽出入晝夜時刻各蒙古序次悉依地圖北極高度定緯所列各蒙古皆在車書一統之内故頒朔亦及焉但其所居之處亦如中國各省南北東西相距遠近之不一故悉依地圖測北極出地高下緯度以定太陽出入之時刻晝夜長短之時刻亦同中國之分測法也本朝厚德配天凡有血氣者莫不尊親故各蒙古風向化者歲有所增月有所加今皆不及詳錄每歲太陽出入晝夜刻分前後各有相同之日而天體渾圓諸方太陽出入書夜刻分又自不同故將刻分相同之日對書于格之上下
+  hash: sha256:424c82317e670ecd1ecd672fda221d34525cc9cc55fcdef18ddcc2b3e799f2a3
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:199f53eea29b633f607ad72e88677ae1dcacca9d70158d22a90cfd23dfbba377

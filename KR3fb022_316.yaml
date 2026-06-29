@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/316
+seq: 316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 癸卯年赤碧黑假如癸卯年八月卯年是上元年分八月是一白值月即以一白值月星入飛宮掌八月紫白九星黃白白中宮則一白在中二黑飛到乾三碧飛到兌四録飛到艮五黃飛到離六白飛到坎假如式紫白緑七赤到坤八白到震九紫到巽而九宮之紫白九星皆得矣餘倣此例六十甲子值日每日各有一干支甲子主值如初一是庚午值日初二即是辛未值日初三壬申初四癸酉六十甲子順捱值日周而復始萬古不參錯一日其始初第一日是五星聯珠日月合璧從天正甲子年甲子月甲子日甲子時而起遞排主值每日至今禽星
+  hash: sha256:3d0aa664ddbca9d57c8181a8d3654ba658da85bdeddf1316299adf92f175b812
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:a3a7a268e07a8148cd7e71493710740f17bcad3e1a414f76907322e604aae71d

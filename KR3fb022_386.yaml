@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/386
+seq: 386
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宮姓宜六七八十二月不宜三九月子亥年害財丑未年大通寅卯年鬼賊辰年大墓已年氣絶午年白虎申酉年小通戌年小墓商姓宜七八十十一月不宜六十二月子辰戌亥年小通丑年大墓寅年氣絶卯年白虎已午年鬼賊未年小墓申酉年大通角姓宜正二十十一月不宜六十二月子已午亥年小通丑年小墓寅卯年大通辰戌年害財未年大墓申酉年氣絶鬼賊徵姓宜正二四五月不宜三九月
+  hash: sha256:b1037ec8417a70ed68bb070adc387293957af7ea42e2a51f139fcfb29e9ffcbf
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:7cbf70981040f3c83adefe12b21a9ab33479c07865c0a928d1200a462c674508

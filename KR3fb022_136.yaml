@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/136
+seq: 136
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五日遊一方若所出遊之五日內任作無忌故須併工修作若不併工延至五日外則各神還位不吉矣故曰併工修營無妨併工者多其匠工以數日之事而以一日為之也其太歲已下神殺出遊日本歷之末有例可查今更詳其說于後天德正丁二坤申宮三壬四辛同五乾亥六甲上七癸八艮寅逢九丙十居乙子十一月巽巳丑十二月庚中天德日宜興工動土修營拜封上表上官赴任造葬移居求財出行市價結姻藏胎衣百事俱吉天德值日固吉而所占之方為尤吉蓋此方為隂陽開通福德之地其所宜用之事皆與上值日
+  hash: sha256:1710b29d6af9c71958dd5054fe78e55ab617410fe9cfc548df9b517348320b43
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:c12f3c1ff26fb1968cdbf83155ca27baecbfc1830e19ce12aaf1936ef9deb0a2

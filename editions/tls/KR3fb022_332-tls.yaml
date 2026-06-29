@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb022/tls/v1/juan/332
+seq: 332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各事項條目上表章上官入學嫁娶結婚修置産室冠帶會親友進人口掃舍宅竪柱上梁平治道路修造動土破土破屋壊垣安碓音對磑音位磨也交易開市立券納財出行捕捉田獵移徒安床經絡裁衣針刺牧養栽種伐木開渠穿井療病沐浴剃頭祭祀啓攅安葬朔望弦晦月者太隂之精魄者月之體也朔望弦晦皆從日之離合以盖月本無光受日則光合璧謂之朔近一遠三謂之弦相與爲衡分天之中則謂之望以速及舒光靜體復則謂之晦月光常滿而有弦晦朔
+  hash: sha256:9985736b3af16097b8ce6f0c6027fd0edae6eba59d3aef1c8eb979a7895dafc1
+metadata:
+  title: 大清時憲書箋釋
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb022.xml
+hash: sha256:654a0f9610209e26d40bf43246eb4d213fb5f7c733fa27f9a5fa92b5ead6393a
