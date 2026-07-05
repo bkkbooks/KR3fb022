@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 加箋釋凡厯之所載全民利用者條為兮而縷為析以副聖天子敬授斯民至意務使讀厯者吉凶避就觸目了然無事向剋擇之門奉其瞽論而閭左之用日以愈弘非敢謂有裨于朝廷之治竊與大清律箋釋之㫖微有合爾且書中祇釋夲義馀無所及視太史公歷書之載大小餘
-  hash: sha256:57fcb07c8de3103b4b14d4a749d3f52bb4e92547eeb25cb08ce22e8f6360a5d8
+  text: 加箋釋凡厯之所載全民利用者條爲兮而縷為析以副聖天子敬授斯民至意務使讀厯者吉㐫避就触目了然無事向剋擇之門奉其瞽論而閭左之用日以愈弘非敢谓有裨扵朝廷之治竊與大清律箋釋之㫖㣲有合爾且書中祇釋夲義馀無所及視太史公歴書之載大小餘
+  hash: sha256:78cabe6cb258e865e8e83d60210cce517b66c6d0d5aee49475374e79a2e2967e
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:899af01c0ba14c355c540de1dc1e2f6a43a1f862ca6d0579db9e0eff501d0a72
+hash: sha256:aef93c9b8ef90021897b8ed7a8b83ab2e9cd6852c36248d1bbbb00b7975fe337

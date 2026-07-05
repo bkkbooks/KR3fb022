@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鬼史蓲大撓輩相較列矣烏淂以方士短之哉史之見不永疏且悖乎我朝康熙上甲子嵗考㝎歲差箕三子正允合堯莢夏時頒憲示準民用以諧其如嵗換年忽
-  hash: sha256:38ad1e674b6e801568d40b1b9ce9f5d82a67816cada2eb8e8d305ef19b8ef64d
+  text: 鬼史蓲大撓軰相較列矣烏淂以方士短之哉史之見不永䟽且悖乎我朝康熈上甲子嵗攷㝎岁差箕三子正允合尭荚夏時頒憲示準民用以諧其如嵗換年忽
+  hash: sha256:803ded7946804fbe995a38d1a062299f0835efc471389d5512aa30788532767e
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:0f0f938b6f068dd50cc29517cf106db2d7b19f4bf0174cbd938c7b1f3a36c3d9
+hash: sha256:fa7556eb802e4995897f6a6e74f833cc0685eafdaa84bd1995ee75ca5ad2f086

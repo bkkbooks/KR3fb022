@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 與夏正同夫自黃帝至于漢初失紀紊次武帝始還于夏正史又云出諸方士之手是時拯䛉方士為邪異奚為不正于廷臣而正于方士方士能正數千年未正之夏時則水嗅羲和常儀
-  hash: sha256:fbd9c08fb90245070482d065bf6d3852bcd0be9b7293a98064db460abf01af6e
+  text: 與夏正同夫自黄帝至扵漢初失紀紊次武帝始還扵夏正史又云出諸方士之手是時拯䛉方士為邪異奚為不正扵廷臣而正扵方士方士能正數千年未正之夏時則水嗅羲和常儀
+  hash: sha256:79fd9cf7f4febeed021a7a4fe527262f456cb0e0a383dbf83acc4891516e0493
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:896034650f9954bb329a74f16fd37e1d904871218152f552377a937ddee58632
+hash: sha256:56cb76c84830ddf1cba117dae7584c7762775d284c714116850ade215d63e0a5

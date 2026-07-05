@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 曉貫者各知君子趨避之宜其羽翼時憲為功世暗豈淺鮮哉吁繆君之學與行固常有志能用用也斯以半隱名則猶有不隱者半歟箋釋云乎哉吾
-  hash: sha256:bc96a862a2f75e484d0fedf6cd37d4dfff29956136ca0960def4bf6c8d1f316d
+  text: 暁贯者各知君子趋避之宜其羽翼時憲為功世闇豈淺鲜哉吁缪君之學与行固常有志能用用也斯以半隱名則猶有不隱者半欤箋釋云乎哉吾
+  hash: sha256:6f23af87f8422acd0144795a26ec5b1b5fd64be4b468a1a6fb44c420507b8ebc
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:cf794b02390d3036769c0bbe7b453ed0d630ecda335c45c0b32a662ccfe0845b
+hash: sha256:54d8a87c35e1beb967f8080e52fc2447d28214bc711e205b02c443d063e1aa12

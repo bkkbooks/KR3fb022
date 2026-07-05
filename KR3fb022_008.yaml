@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 策造十六神厯置閏設蔀于是時惠而辰徔帝堯即民物以驗星歷毫髮弗爽皆聖人取會于中星故王者必表正朔以統馭萬國而協和萬民厥有夲原夫子謂夏正不易之經重人
-  hash: sha256:3dbeff590baa4d7c4cae7f99c548f8bbd656e4fea782c1470aad6f2ae5fe9957
+  text: 策造十六神厯置閏設蔀扵是時惠而辰徔帝尭即民物以騐星歴毫髪弗爽皆聖人取會扵中星故王者必表正朔以统馭萬國而恊和萬民厥有夲原夫子謂夏正不易之经重人
+  hash: sha256:863b49fd5d627290e78f6b2c57b27341a4f98f3e02a4b0b80a41071b761ac970
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:359babdf5f5fa65c13b6f24e6fe3bd948d02e2aa9cab4da35f0560d0c46a7ca8
+hash: sha256:d1475f8e09eac87a543dcc568ba8ea5640ac83674b3bdb3233eac7c96b45f11d
