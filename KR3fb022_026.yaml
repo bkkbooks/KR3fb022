@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 閏易萌步筭之思天官書之星辰並著穢祥動人推測之見其得失相玄甚遠則此書之適扵用而無蹈扵禁庶為天下之君子所頹讀而樂道也夫康熈六十一年嵗次壬寅八月之望書于胥江玉寜堂西湖繆之晉
-  hash: sha256:f39c2de61e9e6b1f32f7f26e874c956807d7642839446ee5181b236f9cc339f6
+  text: 閏易萌步算之思天官書之星辰並著穢祥動人推測之見其得失相玄甚遠則此書之適于用而無蹈于禁庶為天下之君子所頽讀而樂道也夫康熙六十一年嵗次壬寅八月之望書于胥江玉寧堂西湖繆之晉
+  hash: sha256:20751becaafc48837571b6e3913e32e80811d381d95e1d8fa17673da1277935b
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:095ad5586681acd25320b8d7fb5a6c5e2a4e7e8d40b0482c8e3543aecd72c430
+hash: sha256:d2743e4acc1642d7dd92bbc9210829379a651488ed7acbf45440963bb2752cbc

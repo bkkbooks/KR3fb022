@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 憲厯頒矣而何有扵笺釋箋釋出矣而何有扵通書是憲厯體也通書用也箋釋則兼體用而一以皇憲為宗者也凢人生天地茂育四時莫不有當然之行當然之止甚
-  hash: sha256:43a107f985e9ea5f0df260ee59f8fb7b605e93e77216fd1406af3a1351acbc75
+  text: 憲厯頒矣而何有于箋釋箋釋出矣而何有于通書是憲厯體也通書用也箋釋則兼體用而一以皇憲為宗者也凡人生天地茂育四時莫不有當然之行當然之止甚
+  hash: sha256:501ff7c9e0d10f1e1328d9a748b7033ebd9a7f31a351a0d6495cf5ef157c9fb2
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:4d2d739974664871fc96a2368dcce3a4b9a4d334ec0e75fda658bcb5b0298618
+hash: sha256:ca9a48578fcc5651f9dfd8de320b8b6f43d783946b556f72be748eb5064e307d

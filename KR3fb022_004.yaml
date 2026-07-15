@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 未可玩居諸而忽歳月斯半隱之箋釋所不能已也自軒轅氏立占天之官淂五要以設靈䑓综六術以㝎氣運五六合者岁三千七百二十氣為一紀六十嵗千四百四十氣為一周终而复始乃迎日推
-  hash: sha256:de43a2743876b211a2b5aeb529a31a90697a7faa320560cc119ac94e567b68dd
+  text: 未可玩居諸而忽歲月斯半隱之箋釋所不能已也自軒轅氏立占天之官淂五要以設靈臺綜六術以㝎氣運五六合者歲三千七百二十氣為一紀六十嵗千四百四十氣為一周終而復始乃迎日推
+  hash: sha256:3b973dcf9580b6b0caa517ddc919b18bb8da5c2cefd4e4f21ab87897042409c3
 metadata:
   title: 大清時憲書箋釋
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb022.xml
-hash: sha256:341b33dcc42d54fb7d20009c593246779ded51fed267cc072c06ad64f13a3066
+hash: sha256:de3f9c8526e9c4c569f9f908c9ab72d3f9d5a0bb1a67a0498b58ad0be5c32215
